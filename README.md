@@ -15,4 +15,5 @@ pip install -r requirements.txt
 ## Run
 
 
-python scraper.py
+python Goldenpagescraper.py
+
