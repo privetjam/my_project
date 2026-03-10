@@ -1,6 +1,6 @@
-# YellowPages Scraper
+# GoldenPages Scraper
 
-Python Selenium scraper that collects company information from YellowPages Uzbekistan.
+Python Selenium scraper that collects company information from GoldenPages Uzbekistan.
 
 ## Features
 - Scrapes company names
@@ -13,5 +13,6 @@ Python Selenium scraper that collects company information from YellowPages Uzbek
 pip install -r requirements.txt
 
 ## Run
+
 
 python scraper.py
